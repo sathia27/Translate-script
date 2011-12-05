@@ -1,0 +1,20 @@
+Installation
+
+For ubuntu/debian package
+
+1.Installing ruby
+    sudo apt-get install ruby
+    
+2. Installing rubygems
+    sudo apt-get install rubygems
+
+3. Installing Nokogiri, Its html/xml parser for ruby
+     sudo apt-get install ruby libxml2 libxml2-dev libxslt-dev ruby-dev
+     sudo gem install nokogiri
+     
+
+How to run the script:
+   ruby translate.rb filename.doc
+   
+Filename can be .doc or .txt
+
