@@ -18,3 +18,19 @@ How to run the script:
    
 Filename can be .doc or .txt
 
+Current Status:
+
+*Now it gets .doc extension file from user and it converts to tamil pdf.
+
+    Need to changed as English pdf to Tamil pdf.
+
+    Note: It has many grammar issues while translate. and this is translated by http://translate.google.com/
+
+    Code was in github account : https://github.com/sathia27/Translate-script
+
+    If you like to start working in this code. You can take code form github acconut.
+
+    If you feel any good method other than this, Please give me suggestion.
+
+For queries mail me at sathia2704@gmail.com
+
