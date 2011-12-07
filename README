@@ -12,6 +12,9 @@ For ubuntu/debian package
      sudo apt-get install ruby libxml2 libxml2-dev libxslt-dev ruby-dev
      sudo gem install nokogiri
      
+4. Installing prawn
+     prawn is ruby gem for generating pdf.
+     sudo gem install prawn
 
 How to run the script:
    ruby translate.rb filename.doc
